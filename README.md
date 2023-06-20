@@ -2,7 +2,7 @@
 
 ## Atividade prática da 31 semana - Parte 1
 
-Nesta semana trabalhamos com Mnipulação de Cookies
+Nesta semana trabalhamos com Manipulação de Cookies
 
 * Introdução a cookies;
 * Configurando cookies;
